@@ -1,1 +1,2 @@
-# hq969.github.io
+- My [Blog](https://medium.com/@hq969)
+- My [GitHub profile](https://github.com/hq969)
